@@ -1,0 +1,17 @@
+{
+  "name": "data-engineer-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start-nats": "sh ./start-nats",
+    "start-broadcast": "node vehicle-data-generator/index.js"
+  },
+  "dependencies": {
+    "async": "^2.6.1",
+    "nats": "^1.0.1",
+    "underscore": "^1.9.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
