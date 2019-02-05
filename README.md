@@ -96,6 +96,6 @@ Looking freshen up on your knowledge and skills? These are some good articles/co
 * [coffeescript](https://coffeescript.org)
 
 ## Questions
-If you have any questions about the assignment or project setup feel free to contact us at <a href='mailto:s.surur@viriciti.com'>s.surur@viriciti.com</a>. You can also come by the office. We're always ready to help.
+If you have any questions about the assignment or project setup feel free to contact us at <a href='mailto:s.surur@viriciti.com'>s.surur@viriciti.com</a> or <a href='mailto:s.liem@viriciti.com'>s.liem@viriciti.com</a>. You can also come by the office. We're always ready to help.
 
 Good luck with the assignment!
