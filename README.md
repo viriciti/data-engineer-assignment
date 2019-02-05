@@ -69,18 +69,22 @@ power = voltage * current
 The unit is watt.
 
 Energy is the time-integrated power. For each new power measurment the energy contribution `delta_energy` can be approximated (is it a good one?)
-````
+```
 delta_energy = previously_measured_power * delta_time
-````
+```
 where `delta_time` is the time since the previous power measurement.
 We want the energy in units of kWh.
 
 To be very explicit; we want a new power and energy value for every change in current and/or voltage.
 
 As you are going to present your solution (explaining your choices and convincing us that the data is correctly handled), you also need to display the data somehow.
-This is not a frontend assignment, so some static plots is fine (in addition to the live demo of the system).
+This is not a frontend assignment, so some static plots are fine (in addition to the live demo of the system).
 
 You should be able to explain the data.
+
+## Time to spend on this task
+
+There is no strict deadline on this assignment, but we estimate it's about two days of effort.
 
 ## Reading Material
 Looking freshen up on your knowledge and skills? These are some good articles/courses that you can check out.
